@@ -15,7 +15,7 @@ body {
   background-color: rgba(20, 20, 20, 0.902);
   margin-top: 10%;
   height: 800px;
-  width: 100px;
+  width: 1000px;
   box-shadow: -15px 15px 20px rgb(20, 20, 20);
   /* transition: all 0.2s fade-in-out; */
   display: flex;
