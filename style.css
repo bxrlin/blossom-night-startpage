@@ -4,7 +4,7 @@
   max-width: 100%;
 } */
 body {
-  background-color: rgb(36, 36, 36);
+  background-color: rgb(21, 21, 21);
   font-family: "Source Code Pro", monospace;
   display: flex;
   align-items: center;
@@ -12,7 +12,7 @@ body {
 }
 
 .box-landscape {
-  background-color: rgba(35, 35, 35, 0.902);
+  background-color: rgba(20, 20, 20, 0.902);
   margin-top: 10%;
   height: 800px;
   width: 700px;
